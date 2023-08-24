@@ -5,7 +5,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/giomerida)
+[![GitHub followers](https://img.shields.io/github/followers/giomerida?style=social)](https://github.com/giomerida)
 
 ## Sobre mi
 
