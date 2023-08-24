@@ -3,9 +3,7 @@
 </div>
 <img src="#">
 
-<div align="center">
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giomerida) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/)
-</div>
 
 <!--
 **giomerida/giomerida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
