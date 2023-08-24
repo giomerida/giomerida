@@ -3,7 +3,68 @@
 </div>
 <img src="#">
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giomerida) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/)
+[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/)
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/giomerida)
+
+## Sobre mi
+
+- ⭐ Developer Front-End ⭐ 
+- Chiapas, México
+- 
+- 
+- 
+- 
+<br>
+
+## Proyectos *Personales*
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Challegen Portafolio</h3>
+<div align="center">
+<a href=""https://github.com/giomerida" target="_blank"><img src="#" width="400" alt="#"></a>
+<p>
+<a href="https://github.com/giomerida" target="_blank">
+<img src="#">
+</a>
+<a href="https://youtu.be/" target="_blank">
+<img src="#">
+</a>
+</p>
+<p>.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Funnel B-Eco</h3>
+<div align="center">                                       
+<a href="https://github.com/giomerida" target="_blank"><img src="#" width="400" alt="#"></a>
+<br>
+<p>
+<a href="https://github.com/giomerida" target="_blank">
+<img src="#">
+</a>
+<a href="#" target="_blank">
+<img src="#">
+</a>
+</p>
+</p>.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/giomerida">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=giomerida&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giomerida&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **giomerida/giomerida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
