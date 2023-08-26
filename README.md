@@ -45,10 +45,10 @@
 <br>
 <p>
 <a href="https://github.com/giomerida" target="_blank">
-<img src="https://www.asuswebstorage.com/navigate/a/#/s/0097A226F48C414AB4C7B69306C023864">
+<img src="https://www.asuswebstorage.com/navigate/a/#/MySync/ODE1ODE3OTI3LDgxOTYxOTcyNCw3OTc4NDIyNDA%3D?type=previewPageCover">
 </a>
 <a href="#" target="_blank">
-<img src="https://www.asuswebstorage.com/navigate/a/#/s/0097A226F48C414AB4C7B69306C023864">
+<img src="https://www.asuswebstorage.com/navigate/a/#/MySync/ODE1ODE3OTI3LDgxOTYxOTcyNCw3OTc4NDIyNDA%3D?type=previewPageCover">
 </a>
 </p>
 </p>.</p>
