@@ -48,7 +48,7 @@
 <img src="https://www.asuswebstorage.com/navigate/a/#/s/0097A226F48C414AB4C7B69306C023864">
 </a>
 <a href="#" target="_blank">
-<img src="#">
+<img src="https://www.asuswebstorage.com/navigate/a/#/s/0097A226F48C414AB4C7B69306C023864">
 </a>
 </p>
 </p>.</p>
