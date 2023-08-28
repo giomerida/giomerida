@@ -7,7 +7,6 @@
 </div>
 <img src="#">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/)
 [![GitHub followers](https://img.shields.io/github/followers/giomerida?style=social)](https://github.com/giomerida)
 
@@ -16,7 +15,7 @@
 I am a Developer Front-End from Chiapas, México.
 - ⭐ Developer Front-End ⭐ 
 - :seedling: Website programmer.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giomerida/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giomerida/), [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:giomerida@cuttux.com)
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
