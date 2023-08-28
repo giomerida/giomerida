@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://giomerida.cuttux.com">Gio Mérida</a> 👋</h1>
+<h1 align="center">Hi, I am <a href="https://giomerida.cuttux.com">Gio Mérida</a> 👋</h1>
 </div>
 <img src="#">
 
@@ -11,54 +11,12 @@
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/)
 [![GitHub followers](https://img.shields.io/github/followers/giomerida?style=social)](https://github.com/giomerida)
 
-## Sobre mi
+## About Me
 
+I am a Developer Front-End from Chiapas, México.
 - ⭐ Developer Front-End ⭐ 
-- Chiapas, México
-- 
-- 
-- 
-- 
-<br>
-
-## Proyectos *Personales*
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Challegen Portafolio</h3>
-<div align="center">
-<a href=""https://github.com/giomerida" target="_blank"><img src="#" width="400" alt="#"></a>
-<p>
-<a href="https://github.com/giomerida" target="_blank">
-<img src="#">
-</a>
-<a href="https://youtu.be/" target="_blank">
-<img src="#">
-</a>
-</p>
-<p>.</p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-               <br>
-<h3 align="center">Funnel B-Eco</h3>
-<div align="center">                                       
-<a href="https://github.com/giomerida" target="_blank"><img src="#" width="400" alt="#"></a>
-<br>
-<p>
-<a href="https://github.com/giomerida" target="_blank">
-<img src="https://www.asuswebstorage.com/navigate/a/#/MySync/ODE1ODE3OTI3LDgxOTYxOTcyNCw3OTc4NDIyNDA%3D?type=previewPageCover">
-</a>
-<a href="#" target="_blank">
-<img src="https://www.asuswebstorage.com/navigate/a/#/MySync/ODE1ODE3OTI3LDgxOTYxOTcyNCw3OTc4NDIyNDA%3D?type=previewPageCover">
-</a>
-</p>
-</p>.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
+- :seedling: Website programmer.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giomerida/)
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
