@@ -2,14 +2,14 @@
   <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
 </div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%blue&size=25&center=true&vCenter=true&width=600&height=100&lines=Design+Graphic+and+Web;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
-</p>
-
 <div align="center">
 <h1 align="center">Hi, I am <a href="https://giomerida.cuttux.com">Gio Mérida</a> 👋</h1>
 </div>
 <img src="#">
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%blue&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+ to+profile;Design+graphic+and+web;Website+Programmer;Project+manager;Html+Css+Js+Php+React"></a>
+</p>
 
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/)
 [![GitHub followers](https://img.shields.io/github/followers/giomerida?style=social)](https://github.com/giomerida)
