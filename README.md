@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
+</div>
+
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://giomerida.cuttux.com">Gio Mérida</a> 👋</h1>
 </div>
