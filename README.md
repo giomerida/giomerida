@@ -2,7 +2,7 @@
 
 <img src="https://giomerida.github.io/challenge-portafolio.github.io/assets/profile_2.png" alt="Foto de perfil de Giovanni Mérida" width="160" style="border-radius:50%"/>
 
-# Hola, soy Gio Mérida 👋
+# Hola, soy Giovanni Mérida 👋
 
 ### Developer Front-End Jr. · Diseñador Gráfico · Marketing Digital
 
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Alexis Giovanni Mérida Arévalo** (GioDev), Lic. en Diseño Gráfico y Developer Front-End Jr. de Chiapas, México. Actualmente estudio Marketing Digital en la UNICACH y soy graduado del programa **Oracle ONE G5 de Alura Latam (2023)**.
+Soy **Alexis Giovanni Mérida Arévalo** (GioDev), Lic. en Diseño Gráfico y Marketing Digital al igual que Developer Front-End Jr. de Chiapas, México. Graduado de la Lic. en Marketing Digital en la UNICACH y graduado del programa **Oracle ONE G5 de Alura Latam (2023)**.
 
 - 🌐 Más de **7 años** creando sitios web con HTML, CSS, JavaScript y React.
 - 🧩 Más de **6 años** desarrollando en WordPress con Elementor Pro y WooCommerce.
@@ -30,7 +30,7 @@ Soy **Alexis Giovanni Mérida Arévalo** (GioDev), Lic. en Diseño Gráfico y De
 
 [![Email](https://img.shields.io/badge/Email-hi@giomerida.dev-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@giomerida.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-giomerida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giomerida/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5219612950117)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5219834080500)
 [![Instagram](https://img.shields.io/badge/Instagram-@giomerida92-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giomerida92/)
 [![Agendar reunión](https://img.shields.io/badge/Agendar-reunión-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.app.google/BibQYTwPLu9LAFAD7)
 
@@ -89,7 +89,7 @@ Soy **Alexis Giovanni Mérida Arévalo** (GioDev), Lic. en Diseño Gráfico y De
 
 ## 🎓 Formación
 
-- 🎓 **Lic. en Marketing Digital** — UNICACH _(en curso, 2022–2026)_
+- 🎓 **Lic. en Marketing Digital** — UNICACH _(Graduado Noviembre 2026)_
 - 🛒 **Comercio Electrónico** — Google _(2025)_
 - 📈 **Inbound Marketing** — HubSpot _(2024)_
 - 💻 **Formación en Front-End (Oracle ONE G5)** — Alura Latam _(2023)_
